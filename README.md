@@ -1,5 +1,5 @@
 # TurtleWars
-This repository have all files of a videogame developed by 7 classmates of ing. multimedia from 'University of Alicante'.
+This repository have all files of a videogame developed by 7 classmates of ing. multimedia in 2018 from 'University of Alicante'.
 It's made with C++ and XML in 'Ubuntu 16.04'. We used 'Codeblocks' IDE, SFML and tinyXML libraries.
 
 
